@@ -1,0 +1,12 @@
+[submodule "fogworker"]
+	path = fogworker
+	url = https://github.com/dvitorsantos/fogworker.git
+[submodule "fogdeployer"]
+	path = fogdeployer
+	url = https://github.com/dvitorsantos/fogdeployer.git
+[submodule "fogcollector"]
+	path = fogcollector
+	url = https://github.com/dvitorsantos/fogcollector.git
+[submodule "fogconsumer"]
+	path = fogconsumer
+	url = https://github.com/dvitorsantos/fogconsumer.git
